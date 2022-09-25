@@ -1,5 +1,5 @@
 //file arrays
-path = 'Assets';
+path = 'Assets/';
 drawersFile = ["closed.png", "topopen.png", "middleopen.png", "bottomopen.png"];
 txtsFile = ["maintext.png", "toptext.png", "middletext.png", "bottomtext.png"];
 thingsFile = [
