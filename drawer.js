@@ -80,4 +80,8 @@ function mousePressed() {
     state = 0;
     opensound.play();
   }
+  if (mouseX > 0 && mouseX < 100 && mouseY > 0 && mouseY < 100) {
+    let fs = fullscreen();
+    fullscreen(!fs);
+  }
 }
