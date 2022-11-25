@@ -38,6 +38,7 @@ picks = 0; //starting empty drawer i.e. no picks
 
 function setup() {
   createCanvas(600, 600);
+  fullscreen(true);
 }
 
 //based on the state, draw certain sets of files
